@@ -28,7 +28,7 @@ twitter_username: immortalelectro
 # github_username:  jekyll
 
 # Build settings
-theme: jekyll-agency
+remote_theme: jekyll-agency
 plugins:
   - jekyll-feed
 
